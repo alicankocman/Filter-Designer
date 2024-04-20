@@ -12,7 +12,6 @@ border-radius: 4px;
 
 .search-text{
     position: relative;
-    top: 15px;
     width: 300px;
     border: none;
     height: 24px;
@@ -27,13 +26,13 @@ border-radius: 4px;
 
 .material-symbols-outlined{
     position: relative;
-    right: px;
+    left: 40px;
     bottom: 200px;
 }
 
 .title{
     position: relative;
-    bottom: 600px;
+    bottom: 590px;
     right: 180px;
     font-family: 'Roboto', sans-serif;
     color: #141140;
@@ -44,7 +43,7 @@ border-radius: 4px;
 .user-container{
     position: relative;
     right: 165px;
-    bottom: 70px;
+    bottom: 90px;
     font-family: 'Roboto', sans-serif;
     color: #141140;
     font-size: 24px;
@@ -63,4 +62,25 @@ border-radius: 4px;
     right: 50px;
     top: 50px;
     
+}
+
+.search-text-1{
+    position: relative;
+    bottom: 70px;
+    width: 200px;
+border: none;
+height: 24px;
+background-color: #FFCE6D;
+font-size: 20px;
+font-family: 'Roboto', sans-serif;
+color: #EC9F09;
+border-radius: 10px;
+padding-left: 10px;
+right: 50px;
+bottom: 10px;
+}
+
+.s1{
+    position: relative;
+ bottom: 60px;
 }
